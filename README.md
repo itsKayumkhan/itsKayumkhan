@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://kayumkhan-sayal.netlify.app/](https://kayumkhan-sayal.netlify.app/)
 
-- 📝 I regularly make a reel on [JavaScript and frontend](JavaScript and frontend)
+- 📝 I regularly make a reel on [JavaScript and frontend]
 
 - 💬 Ask me about **JavaScript and frontend stuff**
 
-- 📫 How to reach me **kayumkhankks5@gmail.com**
+- 📫 How to reach me **kayumkhansayal2004@gmail.com**
 
 - 📄 Know about my experiences [https://kayumkhan-sayal.netlify.app/](https://kayumkhan-sayal.netlify.app/)
 
