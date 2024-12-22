@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Type script**
 
-- 👨‍💻 All of my projects are available at [https://kayumkhan-sayal.netlify.app/](https://kayumkhan-sayal.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kayumkhan-sayal.netlify.app/](https://kayumkhan-sayal.netlify.app/#Projects)
 
 - 📝 I regularly make a reel on [JavaScript and frontend]
 
