@@ -1,38 +1,178 @@
-<h1 align="center">Hi 👋, I'm Kayumkhan_sayal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itskayumkhan&label=Profile%20views&color=0e75b6&style=flat" alt="itskayumkhan" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kayumkhan%20Sayal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-- 🔭 I’m currently working on **Next.js**
+<a href="https://github.com/itskayumkhan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kayumkhan+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%7C+TypeScript+%7C+React+Lover;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Next.js and Type script**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://kayumkhan-sayal.netlify.app/](https://kayumkhan-sayal.netlify.app/#Projects)
+<img src="https://komarev.com/ghpvc/?username=itskayumkhan&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/itskayumkhan?label=Followers&style=for-the-badge&color=00d9ff" alt="followers" />
+<a href="https://kayumkhan-sayal.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio" />
+</a>
 
-- 📝 I regularly make a reel on [JavaScript and frontend]
+</div>
 
-- 💬 Ask me about **JavaScript and frontend stuff**
+<br/>
 
-- 📫 How to reach me **kayumkhansayal2004@gmail.com**
+## 🧑‍💻 About Me
 
-- 📄 Know about my experiences [https://kayumkhan-sayal.netlify.app/](https://kayumkhan-sayal.netlify.app/)
+```javascript
+const kayum = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    code: ["JavaScript", "TypeScript", "Python", "C++"],
+    askMeAbout: ["web dev", "frontend", "javascript", "react"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Express"],
+        databases: ["MongoDB", "MS SQL"],
+        tools: ["Git", "Postman", "Babel", "Linux"]
+    },
+    currentFocus: "Building scalable apps with Next.js + TypeScript",
+    funFact: "I think I am a teacher 👨‍🏫"
+};
+```
 
-- ⚡ Fun fact **i think i am a teacher**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kayumkhan_sayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kayumkhan_sayal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kayumkhan_sayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayumkhan_sayal" height="30" width="40" /></a>
-<a href="https://fb.com/kayumkhan_sayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kayumkhan_sayal" height="30" width="40" /></a>
-<a href="https://instagram.com/kayumkhan_sayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kayumkhan_sayal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codemanoranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codemanoranjan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kayumkhan_sayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kayumkhan_sayal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kayumkhan_sayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kayumkhan_sayal" height="30" width="40" /></a>
+- 🔭 Currently working on **Next.js projects**
+- 🌱 Currently learning **Next.js & TypeScript** in depth
+- 👨‍💻 All my projects live at **[kayumkhan-sayal.netlify.app](https://kayumkhan-sayal.netlify.app/#Projects)**
+- 📝 I regularly create **reels on JavaScript & frontend stuff**
+- 💬 Ask me anything about **JavaScript, React & Frontend Development**
+- 📫 Reach me at **kayumkhansayal2004@gmail.com**
+- ⚡ Fun fact — *I think I am a teacher* 😄
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://twitter.com/kayumkhan_sayal" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+</a>
+<a href="https://linkedin.com/in/kayumkhan_sayal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/kayumkhan_sayal" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
+<a href="https://fb.com/kayumkhan_sayal" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+</a>
+<a href="https://www.youtube.com/c/codemanoranjan" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
+</a>
+<a href="https://www.leetcode.com/kayumkhan_sayal" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/kayumkhan_sayal" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="gfg"/>
+</a>
+<a href="mailto:kayumkhansayal2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,bash" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,bootstrap,tailwind" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itskayumkhan&show_icons=true&locale=en&layout=compact" alt="itskayumkhan" /></p>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itskayumkhan&show_icons=true&locale=en" alt="itskayumkhan" /></p>
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,babel,netlify,vercel" />
+</p>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itskayumkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskayumkhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itskayumkhan&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itskayumkhan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itskayumkhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff" width="100%" alt="activity graph"/>
+
+</div>
+
+<br/>
+
+## 💡 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+
+</div>
+
+<br/>
+
+## 🐍 Watch My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/itskayumkhan/itskayumkhan/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+
+<b>⭐ From [itskayumkhan](https://github.com/itskayumkhan) — Thanks for visiting! ⭐</b>
+
+</div>
