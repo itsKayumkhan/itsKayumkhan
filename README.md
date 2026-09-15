@@ -87,7 +87,7 @@ System Design, API Design, AI Data Pipelines
 
 <br/>
 
-## Featured Work
+## Open Source
 
 ### [client-context](https://github.com/itsKayumkhan/claude-client-context)
 
@@ -96,15 +96,6 @@ System Design, API Design, AI Data Pipelines
 <img src="https://img.shields.io/github/last-commit/itsKayumkhan/claude-client-context?style=flat-square&color=00d9ff&labelColor=0d1117" alt="last commit" />
 
 A Claude Code skill that turns raw client chat into a versioned project knowledge base. Every requirement gets a status, every run diffs against the last one, and conflicts get flagged instead of silently resolved. Open source, MIT licensed.
-
-### [Samsung Distributor Store](https://github.com/itsKayumkhan/patrick-samsung-store)
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=0d1117" alt="Supabase" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-
-A distributor e-commerce store built end to end: catalog and inventory schema, checkout with Stripe, and an admin side for order handling.
 
 <br/>
 
