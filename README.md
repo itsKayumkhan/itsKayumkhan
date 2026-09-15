@@ -89,15 +89,13 @@ System Design, API Design, AI Data Pipelines
 
 ## Featured Work
 
-<div align="center">
+### [client-context](https://github.com/itsKayumkhan/claude-client-context)
 
-<a href="https://github.com/itsKayumkhan/claude-client-context">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayumkhan&repo=claude-client-context&theme=react&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="claude-client-context" />
-</a>
+<a href="https://github.com/itsKayumkhan/claude-client-context"><img src="https://img.shields.io/github/stars/itsKayumkhan/claude-client-context?style=flat-square&color=00d9ff&labelColor=0d1117" alt="stars" /></a>
+<img src="https://img.shields.io/github/license/itsKayumkhan/claude-client-context?style=flat-square&color=00d9ff&labelColor=0d1117" alt="license" />
+<img src="https://img.shields.io/github/last-commit/itsKayumkhan/claude-client-context?style=flat-square&color=00d9ff&labelColor=0d1117" alt="last commit" />
 
-</div>
-
-**[client-context](https://github.com/itsKayumkhan/claude-client-context)** is a Claude Code skill that turns raw client chat into a versioned project knowledge base. Every requirement gets a status, every run diffs against the last one, and conflicts get flagged instead of silently resolved. MIT licensed.
+A Claude Code skill that turns raw client chat into a versioned project knowledge base. Every requirement gets a status, every run diffs against the last one, and conflicts get flagged instead of silently resolved.
 
 <br/>
 
@@ -105,16 +103,17 @@ System Design, API Design, AI Data Pipelines
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itskayumkhan&show_icons=true&theme=react&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskayumkhan&layout=compact&theme=react&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&langs_count=8" alt="top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itskayumkhan&theme=github_dark" alt="stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskayumkhan&theme=github_dark" alt="most used languages" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskayumkhan&theme=github_dark" alt="repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itskayumkhan&theme=github_dark&utcOffset=5.5" alt="productive time" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itskayumkhan&theme=react&border=00d9ff&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=itskayumkhan&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+<img src="https://streak-stats.demolab.com/?user=itskayumkhan&theme=react&border=00d9ff&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&hide_border=false" alt="streak" />
 
 </div>
 
@@ -124,45 +123,20 @@ System Design, API Design, AI Data Pipelines
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+<a href="https://kayumkhan-sayal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=0d1117" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/kayumkhan_sayal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kayumkhansayal2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/itskayumkhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-**Work**
-
-<a href="https://kayumkhan-sayal.netlify.app/">Portfolio</a><br/>
-<a href="https://github.com/itskayumkhan">GitHub</a><br/>
-<a href="https://linkedin.com/in/kayumkhan_sayal">LinkedIn</a>
-
-</td>
-<td align="center" width="25%">
-
-**Code**
-
-<a href="https://leetcode.com/kayumkhan_sayal">LeetCode</a><br/>
-<a href="https://auth.geeksforgeeks.org/user/kayumkhan_sayal">GeeksforGeeks</a>
-
-</td>
-<td align="center" width="25%">
-
-**Social**
-
-<a href="https://twitter.com/kayumkhan_sayal">Twitter / X</a><br/>
-<a href="https://instagram.com/kayumkhan_sayal">Instagram</a><br/>
-<a href="https://fb.com/kayumkhan_sayal">Facebook</a>
-
-</td>
-<td align="center" width="25%">
-
-**Reach out**
-
-<a href="mailto:kayumkhansayal2004@gmail.com">kayumkhansayal2004<br/>@gmail.com</a>
-
-</td>
-</tr>
-</table>
+<a href="https://leetcode.com/kayumkhan_sayal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d1117" alt="LeetCode" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kayumkhan_sayal"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://twitter.com/kayumkhan_sayal"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="https://instagram.com/kayumkhan_sayal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://fb.com/kayumkhan_sayal"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <br/>
+
+**kayumkhansayal2004@gmail.com**
 
 Open to high growth startup roles and interesting product problems.
 
