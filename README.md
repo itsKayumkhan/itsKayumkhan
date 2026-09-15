@@ -95,27 +95,16 @@ System Design, API Design, AI Data Pipelines
 <img src="https://img.shields.io/github/license/itsKayumkhan/claude-client-context?style=flat-square&color=00d9ff&labelColor=0d1117" alt="license" />
 <img src="https://img.shields.io/github/last-commit/itsKayumkhan/claude-client-context?style=flat-square&color=00d9ff&labelColor=0d1117" alt="last commit" />
 
-A Claude Code skill that turns raw client chat into a versioned project knowledge base. Every requirement gets a status, every run diffs against the last one, and conflicts get flagged instead of silently resolved.
+A Claude Code skill that turns raw client chat into a versioned project knowledge base. Every requirement gets a status, every run diffs against the last one, and conflicts get flagged instead of silently resolved. Open source, MIT licensed.
 
-<br/>
+### [Samsung Distributor Store](https://github.com/itsKayumkhan/patrick-samsung-store)
 
-## GitHub Stats
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=0d1117" alt="Supabase" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itskayumkhan&theme=github_dark" alt="stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskayumkhan&theme=github_dark" alt="most used languages" />
-
-<br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskayumkhan&theme=github_dark" alt="repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itskayumkhan&theme=github_dark&utcOffset=5.5" alt="productive time" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=itskayumkhan&theme=react&border=00d9ff&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&hide_border=false" alt="streak" />
-
-</div>
+A distributor e-commerce store built end to end: catalog and inventory schema, checkout with Stripe, and an admin side for order handling.
 
 <br/>
 
